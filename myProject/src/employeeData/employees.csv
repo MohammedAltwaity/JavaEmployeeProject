@@ -1,0 +1,8 @@
+identifier; name; position; required workhours; basic or hourly wage (based on position); overtime wage
+1;Mohamed Ahmed;Manager;8;6000;20
+2;Lina Abdullah;Worker;8;25;50
+3;Ahmed Ali;Manager;8;5500;15
+4;Fatima Hussein;Worker;8;20;40
+5;Ali Khaled;Manager;8;6500;25
+6;Nora Mahmoud;Worker;8;22;45
+7;Youssef Salah;Manager;8;6200;18
